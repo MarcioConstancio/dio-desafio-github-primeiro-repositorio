@@ -1,6 +1,2 @@
 # Desafio de Projeto sobre Git/Github da Dio
-Repositório criado para o Desafio de Projeto.
-
-## links úteis
-
-* [Sintaxe básica de Markdown](https://markdown.net.br/sintaxe-basica/)
+Neste repositório [e apresentado um resumo dos comandos apresentados na seção 'Manipulando arquivos no Linux'
